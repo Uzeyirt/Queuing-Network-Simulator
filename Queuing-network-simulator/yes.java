@@ -42,7 +42,7 @@ public class yes extends JFrame{
 	public static int pg_number=0;
 	public static int sv_number=0;
 	public static int link_number=0;
-	public static int x1 = 0;
+	public static int x1 = 5;
 	public static int y1 = 0;
 	public static int x2 = 0;
 	public static int y2 = 0;
